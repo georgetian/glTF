@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/HavokDevRel/ee37677d-bce0-4483-8683-acc6cf03cff2/dba58352-b71c-470d-8a30-a07f46c1c487/_apis/work/boardbadge/8061dd07-ae73-426d-9655-385d4aa3ce02)](https://dev.azure.com/HavokDevRel/ee37677d-bce0-4483-8683-acc6cf03cff2/_boards/board/t/dba58352-b71c-470d-8a30-a07f46c1c487/Microsoft.RequirementCategory)
 <p align="center">
 <img src="specification/figures/gltf.png" />
 </p>
